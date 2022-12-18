@@ -1,1 +1,1 @@
-# Termial_HW_2
+# Terminal_HW_2
